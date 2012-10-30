@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProcessing", "TextProcessing\TextProcessing.csproj", "{35FDA082-8B8A-43C0-B857-568AE6853475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uspe", "uspe\uspe.csproj", "{E0E2512D-6B81-4012-9DCC-267C1D022FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35FDA082-8B8A-43C0-B857-568AE6853475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FDA082-8B8A-43C0-B857-568AE6853475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FDA082-8B8A-43C0-B857-568AE6853475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FDA082-8B8A-43C0-B857-568AE6853475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E2512D-6B81-4012-9DCC-267C1D022FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E2512D-6B81-4012-9DCC-267C1D022FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E2512D-6B81-4012-9DCC-267C1D022FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E2512D-6B81-4012-9DCC-267C1D022FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
