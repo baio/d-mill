@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProcessing", "TextProce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uspe", "uspe\uspe.csproj", "{E0E2512D-6B81-4012-9DCC-267C1D022FB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNLP.Test", "OpenNLP.Test\OpenNLP.Test.csproj", "{61B78DCF-DE50-4B9A-96FA-EC3B9ABD0607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{E0E2512D-6B81-4012-9DCC-267C1D022FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0E2512D-6B81-4012-9DCC-267C1D022FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0E2512D-6B81-4012-9DCC-267C1D022FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B78DCF-DE50-4B9A-96FA-EC3B9ABD0607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B78DCF-DE50-4B9A-96FA-EC3B9ABD0607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B78DCF-DE50-4B9A-96FA-EC3B9ABD0607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B78DCF-DE50-4B9A-96FA-EC3B9ABD0607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

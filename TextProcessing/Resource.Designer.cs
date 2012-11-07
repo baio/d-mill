@@ -68,5 +68,45 @@ namespace TextProcessing {
                 return ResourceManager.GetString("common_english_words", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] en_chunker {
+            get {
+                object obj = ResourceManager.GetObject("en_chunker", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] en_pos_maxent {
+            get {
+                object obj = ResourceManager.GetObject("en_pos_maxent", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] en_sent {
+            get {
+                object obj = ResourceManager.GetObject("en_sent", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] en_token {
+            get {
+                object obj = ResourceManager.GetObject("en_token", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }

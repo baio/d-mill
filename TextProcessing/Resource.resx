@@ -121,4 +121,16 @@
   <data name="common_english_words" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Data\common-english-words.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
+  <data name="en_chunker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>OpenNLP\Models\en-chunker.bin;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="en_pos_maxent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>OpenNLP\Models\en-pos-maxent.bin;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="en_sent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>OpenNLP\Models\en-sent.bin;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="en_token" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>OpenNLP\Models\en-token.bin;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
